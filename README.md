@@ -1,6 +1,6 @@
 # Denotational Semantics
 
-I added some additional features (language extensions) to the basic definitions in the continuation semantic model (Impc). I used same test cases and added own test cases. In addition I added Goto sequencer and Leave methods.
+Added some additional features (language extensions) to the basic definitions in the continuation semantic model (Impc). I used same test cases and added own test cases. In addition I added Goto sequencer and Leave methods.
 
 Environment
 ===========
@@ -9,10 +9,12 @@ Environment
 	- Command: "ghc --make Tests.hs & ./Tests"
  
 Following features are added:
-	- Static Binding
-	- Single Parameter
-	- Goto
-	- Leave
-	- Loop
-	- Run (Read)
-	- Draw
+<ul>
+	<li>Static Binding</li>
+	<li>Single Parameter</li>
+	<li>Goto</li>
+	<li>Leave</li>
+	<li>Loop</li>
+	<li>Run (Read)</li>
+	<li>Draw</li>
+</ul>
