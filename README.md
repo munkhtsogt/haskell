@@ -1,6 +1,6 @@
 # Denotational Semantics
 
-Denotational semantics is a methodology for giving mathematical meaning to programming languages and systems
+Denotational semantics is a methodology for giving mathematical meaning to programming languages and systems.
 Added some additional features (language extensions) to the basic definitions in the continuation semantic model (Impc).
 
 Environment
